@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+mediapipe
+pyautogui
+pytesseract
+pillow
+numpy
+openai
+python-dotenv
+plotly
